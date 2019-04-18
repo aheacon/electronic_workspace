@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name 555_timer)(type KiCad)(uri ${KIPRJMOD}/555_timer.pretty)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri /home/anel/workspace/eacon/electronic_workspace/vjezba/Libraries/digikey-kicad-library-master/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri /home/anel/workspace/eacon/electronic_workspace/vjezba)(options "")(descr ""))
+)
