@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 1)
+    (drawings 4)
     (tracks 129)
     (zones 0)
     (modules 41)
@@ -1450,7 +1450,7 @@
   )
 
   (module TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed (layer F.Cu) (tedit 5B294E90) (tstamp 5CBA75BF)
-    (at 68.3768 107.4928)
+    (at 68.2244 111.0488)
     (descr "single screw terminal block Metz Connect 360271, block size 9x7.3mm^2, drill diamater 1.5mm, 1 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 134, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect")
     (tags "THT single screw terminal block Metz Connect 360271 size 9x7.3mm^2 drill 1.5mm pad 3mm")
     (path /5CBC3BCB)
@@ -1536,7 +1536,7 @@
   )
 
   (module TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed (layer F.Cu) (tedit 5B294E90) (tstamp 5CBA758B)
-    (at 57.4548 107.3912)
+    (at 56.7944 111.1504)
     (descr "single screw terminal block Metz Connect 360271, block size 9x7.3mm^2, drill diamater 1.5mm, 1 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 134, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect")
     (tags "THT single screw terminal block Metz Connect 360271 size 9x7.3mm^2 drill 1.5mm pad 3mm")
     (path /5CBC3231)
@@ -1579,7 +1579,7 @@
   )
 
   (module TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed (layer F.Cu) (tedit 5B294E90) (tstamp 5CBA7571)
-    (at 58.5724 117.9576)
+    (at 59.182 123.5964)
     (descr "single screw terminal block Metz Connect 360271, block size 9x7.3mm^2, drill diamater 1.5mm, 1 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 134, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect")
     (tags "THT single screw terminal block Metz Connect 360271 size 9x7.3mm^2 drill 1.5mm pad 3mm")
     (path /5CBC2DE5)
@@ -1622,7 +1622,7 @@
   )
 
   (module TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed (layer F.Cu) (tedit 5B294E90) (tstamp 5CBA7557)
-    (at 70.0024 118.11)
+    (at 70.612 123.7488)
     (descr "single screw terminal block Metz Connect 360271, block size 9x7.3mm^2, drill diamater 1.5mm, 1 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 134, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect")
     (tags "THT single screw terminal block Metz Connect 360271 size 9x7.3mm^2 drill 1.5mm pad 3mm")
     (path /5CBC2954)
@@ -1665,7 +1665,7 @@
   )
 
   (module TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed (layer F.Cu) (tedit 5B294E90) (tstamp 5CBA753D)
-    (at 80.6704 118.0084)
+    (at 81.28 123.6472)
     (descr "single screw terminal block Metz Connect 360271, block size 9x7.3mm^2, drill diamater 1.5mm, 1 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 134, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect")
     (tags "THT single screw terminal block Metz Connect 360271 size 9x7.3mm^2 drill 1.5mm pad 3mm")
     (path /5CBC1FC4)
@@ -1708,7 +1708,7 @@
   )
 
   (module TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed (layer F.Cu) (tedit 5B294E90) (tstamp 5CBA7523)
-    (at 91.0336 118.1608)
+    (at 91.6432 123.7996)
     (descr "single screw terminal block Metz Connect 360271, block size 9x7.3mm^2, drill diamater 1.5mm, 1 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 134, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect")
     (tags "THT single screw terminal block Metz Connect 360271 size 9x7.3mm^2 drill 1.5mm pad 3mm")
     (path /5CBC1AC2)
@@ -1751,7 +1751,7 @@
   )
 
   (module TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed (layer F.Cu) (tedit 5B294E90) (tstamp 5CBA7509)
-    (at 101.5492 118.1608)
+    (at 102.1588 123.7996)
     (descr "single screw terminal block Metz Connect 360271, block size 9x7.3mm^2, drill diamater 1.5mm, 1 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 134, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect")
     (tags "THT single screw terminal block Metz Connect 360271 size 9x7.3mm^2 drill 1.5mm pad 3mm")
     (path /5CBBEA32)
@@ -2070,7 +2070,10 @@
     )
   )
 
-  (gr_line (start 124 43) (end 124 122) (layer Edge.Cuts) (width 0.254))
+  (gr_line (start 52 130) (end 124 130) (layer Edge.Cuts) (width 0.254))
+  (gr_line (start 52 43) (end 52 130) (layer Edge.Cuts) (width 0.254))
+  (gr_line (start 124 43) (end 52 43) (layer Edge.Cuts) (width 0.254))
+  (gr_line (start 124 43) (end 124 130) (layer Edge.Cuts) (width 0.254))
 
   (segment (start 116.1796 60.6044) (end 114.554 62.23) (width 0.5) (layer B.Cu) (net 5))
   (segment (start 119.1768 60.6044) (end 116.1796 60.6044) (width 0.5) (layer B.Cu) (net 5))
