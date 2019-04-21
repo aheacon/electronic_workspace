@@ -387,17 +387,6 @@ F 3 "http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf" H 3200 1600 50
 	1    3200 2600
 	1    0    0    -1  
 $EndComp
-$Comp
-L power:GND #PWR03
-U 1 1 5CC15199
-P 3300 3600
-F 0 "#PWR03" H 3300 3350 50  0001 C CNN
-F 1 "GND" H 3305 3427 50  0000 C CNN
-F 2 "" H 3300 3600 50  0001 C CNN
-F 3 "" H 3300 3600 50  0001 C CNN
-	1    3300 3600
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	2700 3300 2600 3300
 Wire Wire Line

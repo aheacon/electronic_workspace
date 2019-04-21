@@ -573,7 +573,7 @@ U 1 1 5CBBEA32
 P 6200 850
 F 0 "J5" H 6280 892 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6280 801 50  0000 L CNN
-F 2 "" H 6200 850 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 850 50  0001 C CNN
 F 3 "~" H 6200 850 50  0001 C CNN
 	1    6200 850 
 	1    0    0    -1  
@@ -584,7 +584,7 @@ U 1 1 5CBC1AC2
 P 6200 1050
 F 0 "J6" H 6280 1092 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6280 1001 50  0000 L CNN
-F 2 "" H 6200 1050 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 1050 50  0001 C CNN
 F 3 "~" H 6200 1050 50  0001 C CNN
 	1    6200 1050
 	1    0    0    -1  
@@ -595,7 +595,7 @@ U 1 1 5CBC1FC4
 P 6200 1250
 F 0 "J7" H 6280 1292 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6280 1201 50  0000 L CNN
-F 2 "" H 6200 1250 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 1250 50  0001 C CNN
 F 3 "~" H 6200 1250 50  0001 C CNN
 	1    6200 1250
 	1    0    0    -1  
@@ -606,7 +606,7 @@ U 1 1 5CBC2954
 P 6200 1450
 F 0 "J8" H 6280 1492 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6280 1401 50  0000 L CNN
-F 2 "" H 6200 1450 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 1450 50  0001 C CNN
 F 3 "~" H 6200 1450 50  0001 C CNN
 	1    6200 1450
 	1    0    0    -1  
@@ -617,7 +617,7 @@ U 1 1 5CBC2DE5
 P 6200 1650
 F 0 "J9" H 6280 1692 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6280 1601 50  0000 L CNN
-F 2 "" H 6200 1650 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 1650 50  0001 C CNN
 F 3 "~" H 6200 1650 50  0001 C CNN
 	1    6200 1650
 	1    0    0    -1  
@@ -628,7 +628,7 @@ U 1 1 5CBC3231
 P 6200 1850
 F 0 "J10" H 6280 1892 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6280 1801 50  0000 L CNN
-F 2 "" H 6200 1850 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 1850 50  0001 C CNN
 F 3 "~" H 6200 1850 50  0001 C CNN
 	1    6200 1850
 	1    0    0    -1  
@@ -639,7 +639,7 @@ U 1 1 5CBC368D
 P 6200 2050
 F 0 "J11" H 6280 2092 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6280 2001 50  0000 L CNN
-F 2 "" H 6200 2050 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 2050 50  0001 C CNN
 F 3 "~" H 6200 2050 50  0001 C CNN
 	1    6200 2050
 	1    0    0    -1  
@@ -650,7 +650,7 @@ U 1 1 5CBC3BCB
 P 6200 2250
 F 0 "J12" H 6280 2292 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6280 2201 50  0000 L CNN
-F 2 "" H 6200 2250 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 2250 50  0001 C CNN
 F 3 "~" H 6200 2250 50  0001 C CNN
 	1    6200 2250
 	1    0    0    -1  
@@ -661,7 +661,7 @@ U 1 1 5CBC40F9
 P 6200 2650
 F 0 "J13" H 6280 2692 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6280 2601 50  0000 L CNN
-F 2 "" H 6200 2650 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 2650 50  0001 C CNN
 F 3 "~" H 6200 2650 50  0001 C CNN
 	1    6200 2650
 	1    0    0    -1  
@@ -672,7 +672,7 @@ U 1 1 5CBC46E8
 P 6200 2850
 F 0 "J14" H 6280 2892 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6280 2801 50  0000 L CNN
-F 2 "" H 6200 2850 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 2850 50  0001 C CNN
 F 3 "~" H 6200 2850 50  0001 C CNN
 	1    6200 2850
 	1    0    0    -1  
@@ -683,7 +683,7 @@ U 1 1 5CBC4BF7
 P 6200 3050
 F 0 "J15" H 6280 3092 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6280 3001 50  0000 L CNN
-F 2 "" H 6200 3050 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 3050 50  0001 C CNN
 F 3 "~" H 6200 3050 50  0001 C CNN
 	1    6200 3050
 	1    0    0    -1  
@@ -694,7 +694,7 @@ U 1 1 5CBC518E
 P 6200 3250
 F 0 "J16" H 6280 3292 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6280 3201 50  0000 L CNN
-F 2 "" H 6200 3250 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 3250 50  0001 C CNN
 F 3 "~" H 6200 3250 50  0001 C CNN
 	1    6200 3250
 	1    0    0    -1  
@@ -705,7 +705,7 @@ U 1 1 5CBC55C3
 P 6200 3450
 F 0 "J17" H 6280 3492 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6280 3401 50  0000 L CNN
-F 2 "" H 6200 3450 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 3450 50  0001 C CNN
 F 3 "~" H 6200 3450 50  0001 C CNN
 	1    6200 3450
 	1    0    0    -1  
@@ -716,7 +716,7 @@ U 1 1 5CBC5AFD
 P 6200 3650
 F 0 "J18" H 6280 3692 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6280 3601 50  0000 L CNN
-F 2 "" H 6200 3650 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 3650 50  0001 C CNN
 F 3 "~" H 6200 3650 50  0001 C CNN
 	1    6200 3650
 	1    0    0    -1  
@@ -727,7 +727,7 @@ U 1 1 5CBC601F
 P 6200 3850
 F 0 "J19" H 6280 3892 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6280 3801 50  0000 L CNN
-F 2 "" H 6200 3850 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 3850 50  0001 C CNN
 F 3 "~" H 6200 3850 50  0001 C CNN
 	1    6200 3850
 	1    0    0    -1  
@@ -738,7 +738,7 @@ U 1 1 5CBC6579
 P 6200 4050
 F 0 "J20" H 6280 4092 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6280 4001 50  0000 L CNN
-F 2 "" H 6200 4050 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 4050 50  0001 C CNN
 F 3 "~" H 6200 4050 50  0001 C CNN
 	1    6200 4050
 	1    0    0    -1  
@@ -749,7 +749,7 @@ U 1 1 5CBC6A11
 P 6150 4400
 F 0 "J2" H 6230 4442 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6230 4351 50  0000 L CNN
-F 2 "" H 6150 4400 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6150 4400 50  0001 C CNN
 F 3 "~" H 6150 4400 50  0001 C CNN
 	1    6150 4400
 	1    0    0    -1  
@@ -760,7 +760,7 @@ U 1 1 5CBC6FF9
 P 6150 4600
 F 0 "J3" H 6230 4642 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6230 4551 50  0000 L CNN
-F 2 "" H 6150 4600 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6150 4600 50  0001 C CNN
 F 3 "~" H 6150 4600 50  0001 C CNN
 	1    6150 4600
 	1    0    0    -1  
@@ -771,7 +771,7 @@ U 1 1 5CBC74C0
 P 6150 4900
 F 0 "J4" H 6230 4942 50  0000 L CNN
 F 1 "Screw_Terminal_01x01" H 6230 4851 50  0000 L CNN
-F 2 "" H 6150 4900 50  0001 C CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6150 4900 50  0001 C CNN
 F 3 "~" H 6150 4900 50  0001 C CNN
 	1    6150 4900
 	1    0    0    -1  
