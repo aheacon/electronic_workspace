@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:raskrsnica-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -295,182 +296,6 @@ Wire Wire Line
 	5200 3500 5200 4050
 Wire Wire Line
 	5200 4050 5400 4050
-$Comp
-L Device:LED D3
-U 1 1 5CBD317D
-P 6150 850
-F 0 "D3" H 6150 750 50  0000 C CNN
-F 1 "LED" H 5900 800 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6150 850 50  0001 C CNN
-F 3 "~" H 6150 850 50  0001 C CNN
-	1    6150 850 
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D4
-U 1 1 5CBD6F9C
-P 6150 1050
-F 0 "D4" H 6150 950 50  0000 C CNN
-F 1 "LED" H 5900 1000 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6150 1050 50  0001 C CNN
-F 3 "~" H 6150 1050 50  0001 C CNN
-	1    6150 1050
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D5
-U 1 1 5CBD731A
-P 6150 1250
-F 0 "D5" H 6150 1150 50  0000 C CNN
-F 1 "LED" H 5900 1200 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6150 1250 50  0001 C CNN
-F 3 "~" H 6150 1250 50  0001 C CNN
-	1    6150 1250
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D6
-U 1 1 5CBD783A
-P 6150 1450
-F 0 "D6" H 6150 1350 50  0000 C CNN
-F 1 "LED" H 5900 1400 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6150 1450 50  0001 C CNN
-F 3 "~" H 6150 1450 50  0001 C CNN
-	1    6150 1450
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D7
-U 1 1 5CBD7CE0
-P 6150 1650
-F 0 "D7" H 6150 1550 50  0000 C CNN
-F 1 "LED" H 5900 1600 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6150 1650 50  0001 C CNN
-F 3 "~" H 6150 1650 50  0001 C CNN
-	1    6150 1650
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D8
-U 1 1 5CBD85D3
-P 6150 1850
-F 0 "D8" H 6150 1750 50  0000 C CNN
-F 1 "LED" H 5900 1800 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6150 1850 50  0001 C CNN
-F 3 "~" H 6150 1850 50  0001 C CNN
-	1    6150 1850
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D9
-U 1 1 5CBD915A
-P 6150 2050
-F 0 "D9" H 6150 1950 50  0000 C CNN
-F 1 "LED" H 5900 2000 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6150 2050 50  0001 C CNN
-F 3 "~" H 6150 2050 50  0001 C CNN
-	1    6150 2050
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D10
-U 1 1 5CBD960D
-P 6150 2250
-F 0 "D10" H 6150 2150 50  0000 C CNN
-F 1 "LED" H 5900 2200 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6150 2250 50  0001 C CNN
-F 3 "~" H 6150 2250 50  0001 C CNN
-	1    6150 2250
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D11
-U 1 1 5CBD9AF6
-P 6150 2650
-F 0 "D11" H 6150 2550 50  0000 C CNN
-F 1 "LED" H 5900 2600 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6150 2650 50  0001 C CNN
-F 3 "~" H 6150 2650 50  0001 C CNN
-	1    6150 2650
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D12
-U 1 1 5CBD9FAA
-P 6150 2850
-F 0 "D12" H 6150 2750 50  0000 C CNN
-F 1 "LED" H 5900 2800 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6150 2850 50  0001 C CNN
-F 3 "~" H 6150 2850 50  0001 C CNN
-	1    6150 2850
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D13
-U 1 1 5CBDA533
-P 6150 3050
-F 0 "D13" H 6150 2950 50  0000 C CNN
-F 1 "LED" H 5900 3000 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6150 3050 50  0001 C CNN
-F 3 "~" H 6150 3050 50  0001 C CNN
-	1    6150 3050
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D14
-U 1 1 5CBDAA31
-P 6150 3250
-F 0 "D14" H 6150 3150 50  0000 C CNN
-F 1 "LED" H 5900 3200 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6150 3250 50  0001 C CNN
-F 3 "~" H 6150 3250 50  0001 C CNN
-	1    6150 3250
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D15
-U 1 1 5CBDAF4D
-P 6150 3450
-F 0 "D15" H 6150 3350 50  0000 C CNN
-F 1 "LED" H 5900 3400 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6150 3450 50  0001 C CNN
-F 3 "~" H 6150 3450 50  0001 C CNN
-	1    6150 3450
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D16
-U 1 1 5CBDB4D9
-P 6150 3650
-F 0 "D16" H 6150 3550 50  0000 C CNN
-F 1 "LED" H 5900 3600 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6150 3650 50  0001 C CNN
-F 3 "~" H 6150 3650 50  0001 C CNN
-	1    6150 3650
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D17
-U 1 1 5CBDBA78
-P 6150 3850
-F 0 "D17" H 6150 3750 50  0000 C CNN
-F 1 "LED" H 5900 3800 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6150 3850 50  0001 C CNN
-F 3 "~" H 6150 3850 50  0001 C CNN
-	1    6150 3850
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D18
-U 1 1 5CBDC03F
-P 6150 4050
-F 0 "D18" H 6150 3950 50  0000 C CNN
-F 1 "LED" H 5900 4000 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 6150 4050 50  0001 C CNN
-F 3 "~" H 6150 4050 50  0001 C CNN
-	1    6150 4050
-	-1   0    0    1   
-$EndComp
 Wire Wire Line
 	5700 850  6000 850 
 Wire Wire Line
@@ -503,70 +328,6 @@ Wire Wire Line
 	5700 3850 6000 3850
 Wire Wire Line
 	5700 4050 6000 4050
-Wire Wire Line
-	6300 2650 6300 2850
-Connection ~ 6300 2850
-Wire Wire Line
-	6300 2850 6300 3050
-Connection ~ 6300 3050
-Wire Wire Line
-	6300 3050 6300 3250
-Connection ~ 6300 3250
-Wire Wire Line
-	6300 3250 6300 3450
-Connection ~ 6300 3450
-Wire Wire Line
-	6300 3450 6300 3650
-Connection ~ 6300 3650
-Wire Wire Line
-	6300 3650 6300 3850
-Connection ~ 6300 3850
-Wire Wire Line
-	6300 3850 6300 4050
-Wire Wire Line
-	6300 850  6300 1050
-Connection ~ 6300 1050
-Wire Wire Line
-	6300 1050 6300 1250
-Connection ~ 6300 1250
-Wire Wire Line
-	6300 1250 6300 1450
-Connection ~ 6300 1450
-Wire Wire Line
-	6300 1450 6300 1650
-Connection ~ 6300 1650
-Wire Wire Line
-	6300 1650 6300 1850
-Connection ~ 6300 1850
-Wire Wire Line
-	6300 1850 6300 2050
-Connection ~ 6300 2050
-Wire Wire Line
-	6300 2050 6300 2250
-$Comp
-L power:GND #PWR09
-U 1 1 5CBF1D0D
-P 6300 2250
-F 0 "#PWR09" H 6300 2000 50  0001 C CNN
-F 1 "GND" H 6305 2077 50  0000 C CNN
-F 2 "" H 6300 2250 50  0001 C CNN
-F 3 "" H 6300 2250 50  0001 C CNN
-	1    6300 2250
-	1    0    0    -1  
-$EndComp
-Connection ~ 6300 2250
-$Comp
-L power:GND #PWR010
-U 1 1 5CBF3191
-P 6300 4050
-F 0 "#PWR010" H 6300 3800 50  0001 C CNN
-F 1 "GND" H 6305 3877 50  0000 C CNN
-F 2 "" H 6300 4050 50  0001 C CNN
-F 3 "" H 6300 4050 50  0001 C CNN
-	1    6300 4050
-	1    0    0    -1  
-$EndComp
-Connection ~ 6300 4050
 $Comp
 L power:GND #PWR06
 U 1 1 5CBF4B96
@@ -751,46 +512,10 @@ Wire Wire Line
 	2100 2800 2100 4600
 Wire Wire Line
 	2100 4600 5400 4600
-$Comp
-L Device:LED D1
-U 1 1 5CC46A19
-P 6100 4400
-F 0 "D1" H 6100 4300 50  0000 C CNN
-F 1 "LED" H 5850 4350 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6100 4400 50  0001 C CNN
-F 3 "~" H 6100 4400 50  0001 C CNN
-	1    6100 4400
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D2
-U 1 1 5CC4707D
-P 6100 4600
-F 0 "D2" H 6100 4500 50  0000 C CNN
-F 1 "LED" H 5850 4550 50  0000 C CNN
-F 2 "LED_THT:LED_D5.0mm_Clear" H 6100 4600 50  0001 C CNN
-F 3 "~" H 6100 4600 50  0001 C CNN
-	1    6100 4600
-	-1   0    0    1   
-$EndComp
 Wire Wire Line
 	5700 4400 5950 4400
 Wire Wire Line
 	5700 4600 5950 4600
-Wire Wire Line
-	6250 4400 6250 4600
-$Comp
-L power:GND #PWR08
-U 1 1 5CC52E10
-P 6250 4600
-F 0 "#PWR08" H 6250 4350 50  0001 C CNN
-F 1 "GND" H 6255 4427 50  0000 C CNN
-F 2 "" H 6250 4600 50  0001 C CNN
-F 3 "" H 6250 4600 50  0001 C CNN
-	1    6250 4600
-	1    0    0    -1  
-$EndComp
-Connection ~ 6250 4600
 NoConn ~ 2700 2100
 NoConn ~ 2700 2200
 NoConn ~ 2700 2300
@@ -842,4 +567,224 @@ Text Label 4150 3100 0    50   ~ 0
 5V
 Text Label 4150 1550 0    50   ~ 0
 5V
+$Comp
+L Connector:Screw_Terminal_01x01 J5
+U 1 1 5CBBEA32
+P 6200 850
+F 0 "J5" H 6280 892 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6280 801 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 850 50  0001 C CNN
+F 3 "~" H 6200 850 50  0001 C CNN
+	1    6200 850 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J6
+U 1 1 5CBC1AC2
+P 6200 1050
+F 0 "J6" H 6280 1092 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6280 1001 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 1050 50  0001 C CNN
+F 3 "~" H 6200 1050 50  0001 C CNN
+	1    6200 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J7
+U 1 1 5CBC1FC4
+P 6200 1250
+F 0 "J7" H 6280 1292 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6280 1201 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 1250 50  0001 C CNN
+F 3 "~" H 6200 1250 50  0001 C CNN
+	1    6200 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J8
+U 1 1 5CBC2954
+P 6200 1450
+F 0 "J8" H 6280 1492 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6280 1401 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 1450 50  0001 C CNN
+F 3 "~" H 6200 1450 50  0001 C CNN
+	1    6200 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J9
+U 1 1 5CBC2DE5
+P 6200 1650
+F 0 "J9" H 6280 1692 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6280 1601 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 1650 50  0001 C CNN
+F 3 "~" H 6200 1650 50  0001 C CNN
+	1    6200 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J10
+U 1 1 5CBC3231
+P 6200 1850
+F 0 "J10" H 6280 1892 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6280 1801 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 1850 50  0001 C CNN
+F 3 "~" H 6200 1850 50  0001 C CNN
+	1    6200 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J11
+U 1 1 5CBC368D
+P 6200 2050
+F 0 "J11" H 6280 2092 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6280 2001 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 2050 50  0001 C CNN
+F 3 "~" H 6200 2050 50  0001 C CNN
+	1    6200 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J12
+U 1 1 5CBC3BCB
+P 6200 2250
+F 0 "J12" H 6280 2292 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6280 2201 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 2250 50  0001 C CNN
+F 3 "~" H 6200 2250 50  0001 C CNN
+	1    6200 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J13
+U 1 1 5CBC40F9
+P 6200 2650
+F 0 "J13" H 6280 2692 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6280 2601 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 2650 50  0001 C CNN
+F 3 "~" H 6200 2650 50  0001 C CNN
+	1    6200 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J14
+U 1 1 5CBC46E8
+P 6200 2850
+F 0 "J14" H 6280 2892 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6280 2801 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 2850 50  0001 C CNN
+F 3 "~" H 6200 2850 50  0001 C CNN
+	1    6200 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J15
+U 1 1 5CBC4BF7
+P 6200 3050
+F 0 "J15" H 6280 3092 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6280 3001 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 3050 50  0001 C CNN
+F 3 "~" H 6200 3050 50  0001 C CNN
+	1    6200 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J16
+U 1 1 5CBC518E
+P 6200 3250
+F 0 "J16" H 6280 3292 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6280 3201 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 3250 50  0001 C CNN
+F 3 "~" H 6200 3250 50  0001 C CNN
+	1    6200 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J17
+U 1 1 5CBC55C3
+P 6200 3450
+F 0 "J17" H 6280 3492 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6280 3401 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 3450 50  0001 C CNN
+F 3 "~" H 6200 3450 50  0001 C CNN
+	1    6200 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J18
+U 1 1 5CBC5AFD
+P 6200 3650
+F 0 "J18" H 6280 3692 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6280 3601 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 3650 50  0001 C CNN
+F 3 "~" H 6200 3650 50  0001 C CNN
+	1    6200 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J19
+U 1 1 5CBC601F
+P 6200 3850
+F 0 "J19" H 6280 3892 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6280 3801 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 3850 50  0001 C CNN
+F 3 "~" H 6200 3850 50  0001 C CNN
+	1    6200 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J20
+U 1 1 5CBC6579
+P 6200 4050
+F 0 "J20" H 6280 4092 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6280 4001 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6200 4050 50  0001 C CNN
+F 3 "~" H 6200 4050 50  0001 C CNN
+	1    6200 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J2
+U 1 1 5CBC6A11
+P 6150 4400
+F 0 "J2" H 6230 4442 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6230 4351 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6150 4400 50  0001 C CNN
+F 3 "~" H 6150 4400 50  0001 C CNN
+	1    6150 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J3
+U 1 1 5CBC6FF9
+P 6150 4600
+F 0 "J3" H 6230 4642 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6230 4551 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6150 4600 50  0001 C CNN
+F 3 "~" H 6150 4600 50  0001 C CNN
+	1    6150 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x01 J4
+U 1 1 5CBC74C0
+P 6150 4900
+F 0 "J4" H 6230 4942 50  0000 L CNN
+F 1 "Screw_Terminal_01x01" H 6230 4851 50  0000 L CNN
+F 2 "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed" H 6150 4900 50  0001 C CNN
+F 3 "~" H 6150 4900 50  0001 C CNN
+	1    6150 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR08
+U 1 1 5CBC7B4A
+P 5950 4900
+F 0 "#PWR08" H 5950 4650 50  0001 C CNN
+F 1 "GND" V 5955 4772 50  0000 R CNN
+F 2 "" H 5950 4900 50  0001 C CNN
+F 3 "" H 5950 4900 50  0001 C CNN
+	1    5950 4900
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC
